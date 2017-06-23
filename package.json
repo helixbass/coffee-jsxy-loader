@@ -1,5 +1,5 @@
 {
-	"name": "coffee-loader",
+	"name": "coffee-jsxy-loader",
 	"version": "0.7.3",
 	"author": "Tobias Koppers @sokra",
 	"description": "coffee loader module for webpack",
@@ -7,7 +7,7 @@
 		"loader-utils": "^1.0.2"
 	},
 	"peerDependencies": {
-	    "coffeescript": ">= 1.8.x"
+		"coffeescript-jsxy": "helixbass/copheescript#0699ed5d88774fdbd6bc84e322d2af1930e9b085"
 	},
 	"repository": {
 		"type": "git",
