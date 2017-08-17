@@ -1,6 +1,6 @@
 {
 	"name": "coffee-jsxy-loader",
-	"version": "0.7.3",
+	"version": "0.1.0",
 	"author": "Tobias Koppers @sokra",
 	"description": "coffee-jsxy loader module for webpack",
 	"dependencies": {
