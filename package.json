@@ -2,7 +2,7 @@
 	"name": "coffee-jsxy-loader",
 	"version": "0.7.3",
 	"author": "Tobias Koppers @sokra",
-	"description": "coffee loader module for webpack",
+	"description": "coffee-jsxy loader module for webpack",
 	"dependencies": {
 		"loader-utils": "^1.0.2"
 	},
@@ -11,7 +11,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:webpack/coffee-loader.git"
+		"url": "git@github.com:helixbass/coffee-jsxy-loader.git"
 	},
 	"licenses": [
 		{
