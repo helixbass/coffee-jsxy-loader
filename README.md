@@ -30,6 +30,7 @@ import coffee from 'file.coffee';
 ```
 
 **webpack.config.js**
+
 Since CoffeeScript-JSXY outputs ES6, you probably want to pass its output
 to [`babel-loader`](https://github.com/babel/babel-loader)
 
