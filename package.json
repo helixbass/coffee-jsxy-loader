@@ -7,7 +7,7 @@
 		"loader-utils": "^1.0.2"
 	},
 	"peerDependencies": {
-		"coffeescript-jsxy": "helixbass/copheescript#883f9b2"
+		"coffeescript-jsxy": "^0.1.0"
 	},
 	"repository": {
 		"type": "git",
