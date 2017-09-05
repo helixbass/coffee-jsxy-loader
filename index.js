@@ -19,7 +19,8 @@ module.exports = function(source) {
 			sourceMap: true,
 			sourceRoot: "",
 			sourceFiles: [coffeeRequest],
-			generatedFile: jsRequest
+			generatedFile: jsRequest,
+            jsxFramework: query.jsxFramework,
 		});
 	} catch (e) {
 		var err = "";
